@@ -4,10 +4,12 @@ Create your own Jeopardy game using Flash
 To use this, just download it all and run Board2.html
 
 The first few screens are for setting up the game (contestants don't watch!)
-Questions/Answers and all other variables are stored in variables.txt
 
-This could definitely use some polish, but it was a great project to work on years ago
+Questions/Answers were intended to be stored in variables.txt file so that they could be preloaded
 
-## Test
 
-## TEST COMPLETE
+## Future
+
+There are no plans to continue work on this project as is using this environment, however an updated version utilizing a better skeleton would be interesting
+
+
