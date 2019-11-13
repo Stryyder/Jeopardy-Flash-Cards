@@ -11,6 +11,7 @@ To use this, just download it all and run Board2.html
 The first few screens are for setting up the game (contestants don't watch!)
 Questions/Answers were intended to be stored in variables.txt file so that they could be preloaded. It used to work, but with Flash being deprecated soon, I may rebuild this someday (when I have free time ha!) in another medium.
 
+- Note: This game required an "operator" to control the flow of the game and click on all the appropriate buttons
 
 ## Future
 There are no plans to continue work on this project as is using this environment, however an updated version utilizing a better skeleton would be interesting
